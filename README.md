@@ -22,7 +22,7 @@ Ensure you have the following prerequisites installed before using the extension
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window, or press `Ctrl+Shift+X`.
-3. Search for "Gemini Docs Generator" and click on the install button.
+3. Search for "DocGenerator" and click on the install button.
 
 ## Usage
 
@@ -43,5 +43,5 @@ Customize the extension by modifying the settings in your VS Code settings.json 
 ```json
 {
   "geminiDocsGenerator.outputFormat": "markdown",
-  "geminiDocsGenerator.outputFolder": "docs"
+  "geminiDocsGenerator.outputFolder": "documentation"
 }
